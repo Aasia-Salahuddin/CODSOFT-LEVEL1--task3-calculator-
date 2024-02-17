@@ -1,0 +1,44 @@
+
+.heading1{
+    text-align: center;
+    color: brown;
+    text-shadow: 4px;
+    width: 14%;
+    
+}
+
+#clear{
+    width: 250px;
+}
+
+
+.formstyle{
+    width: 250px;
+    height: 500px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.ans{
+    width: 246px;
+    text-align: center;
+    
+}
+
+input{
+    width: 80px;
+    height: 50px;
+    border: 4px;
+    color: white;
+    background-color: gray;
+    font-size: 30px;
+}
+
+#answerstyle{
+    width: 125px;
+}
+
+.btn{
+    background-color: blueviolet;
+    font-size: 20px;
+}
